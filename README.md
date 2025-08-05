@@ -2,11 +2,7 @@
 
  💡 Desvendando de fato a estrutura fundamental de um documento HTML através do curso **Transforme-se**.
  
-<br>
-
-📚 Neste upload começamos a explorar o esqueleto de uma página web e aprendemos o propósito de cada elemento.
-
-<br>
+ 📚  Neste upload começamos a explorar o esqueleto de uma página web e aprendemos o propósito de cada elemento.
 
 ## O que aprendi com este código?
 
